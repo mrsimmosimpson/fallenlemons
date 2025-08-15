@@ -1,5 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: "Fallen Lemons: my public, digital scrapbook"
 ---
 Fallen lemons: my scrapbook of a life in progress.
 
