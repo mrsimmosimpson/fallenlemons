@@ -1,10 +1,6 @@
 ---
 title: My GitHub Pages Notebook!
 ---
+Fallen lemons: my scrap book of a life in progress.
 
-Hello world!
-
-Testing this!!
-And again!!!
-
-TEST ctrl + Ppp
+Speckled, near-shimmering, juicy, yellow orbs of flavor and nourishment. A little too sour to be used as they are; collected as a fundamental step on the road to hearty lemon pie and refreshing lemonade.
