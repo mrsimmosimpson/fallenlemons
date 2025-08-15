@@ -1,4 +1,1 @@
-Git syncing, big pimpin'? 
-
-
-hrdgundfk g
+Git syncing, big pimpin'???
