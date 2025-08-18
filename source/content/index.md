@@ -1,5 +1,7 @@
 ---
 title: Welcome to my personal website
+aliases:
+  - Home
 ---
 [[Fallen Lemons]] (digital scrapbook)
 
