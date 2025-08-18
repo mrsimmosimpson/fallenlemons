@@ -3,9 +3,10 @@ title: Welcome to my personal website
 aliases:
   - Home
 ---
+**Menu**
 [[Fallen Lemons]] (digital scrapbook)
 
-**#### Hi, I’m Simmo
+**Hi, I’m Simmo**
 
 
 Sometimes life coach, relational facilitator, musician and obsessive in the arts of relational attunement, connection, community and other such things in the pantry of nourishing human connection. 

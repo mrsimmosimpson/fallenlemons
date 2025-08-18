@@ -6,7 +6,8 @@
 
 Speckled, near-shimmering, juicy, yellow orbs of flavor and nourishment. A little too sour to be used as they are; collected as a fundamental step on the road to hearty lemon pie and refreshing lemonade.
 
-**Fallen Lemons**
-[[Communities List]]
+**Fallen Lemons** -- Contents
+
+* [[Communities List]]
 
 

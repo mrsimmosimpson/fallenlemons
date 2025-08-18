@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Fallen Lemons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Fallen Lemons"
             }
           }
         ]
@@ -169,17 +169,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Fallen Lemons.md",
     "index.md",
+    "Fallen Lemons.md",
     "www.thegarden.pt.md",
     "Pasted image 20250818172829.png",
     "Pasted image 20250818172821.png",
     "Communities List.md",
     "Untitled",
     "Pasted image 20250818142750.png",
-    "index.md",
     "category-folder/Testing CTRL + P.md",
     "All Posts.md",
     "category-folder"
