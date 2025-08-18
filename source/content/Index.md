@@ -1,5 +1,5 @@
 ---
-title: "Fallen Lemons: my public, digital scrapbook"
+title: Welcome to my personal website
 ---
 [[Fallen Lemons]] (digital scrapbook)
 
