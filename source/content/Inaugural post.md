@@ -15,14 +15,24 @@ Now I want to write. It's become one of my primary methods for clarifying my thi
 And I want to work out how to use this digital scrapbook. This is my first attempt.
 
 
-In that vein, here are some photos from Fool's Valley
+**In that vein, here are some photos from Fool's Valley**
+
+
 ![[Pasted image 20250818232530.png]]
+*The dance studio*
+
 
 ![[Pasted image 20250818232600.png]]
+*First Circling Session at the community 5 minutes away (the Transformational Connection Hub)*
+
 
 ![[Pasted image 20250818232645.png]]
+*New friends wrapped up in the giant toy octopus*
+
 
 ![[Pasted image 20250818232716.png]]
+*Give a man a desk, a laptop, coffee and creatine and he will launch his new website*
+
 
 ![[Pasted image 20250818232738.png]]
-
+Arrivi
