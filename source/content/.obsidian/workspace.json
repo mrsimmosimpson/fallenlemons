@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "index"
             }
           }
         ]
@@ -172,8 +172,8 @@
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
     "Communities List.md",
+    "index.md",
     "www.thegarden.pt.md",
-    "Index.md",
     "Fallen Lemons.md",
     "Pasted image 20250818172829.png",
     "Pasted image 20250818172821.png",
