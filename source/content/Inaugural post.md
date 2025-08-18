@@ -9,4 +9,4 @@ I'm now at the [Fool's Valley community](https://foolsvalley.com/) near Lisbon f
 My main intention this week was to get this site up and running. ✅Done!
 
 
-Now I want to write. Writing has become one of my primary methods for 
+Now I want to write. Writing has become one of my primary methods for clarifying my thinking and consolidating my growth.  It might be the case that more powerful shifts have happened for me these last few months than 
