@@ -2,75 +2,41 @@ I’ve compiled this list of communities. Many of them were taken from lists com
 
   
 
-*If you want to see more of musings about life in community, connection, attunement, attachment, loneliness, friendship and other assorted topics around living a life full of the most nourishing connections, check out my*
+*If you want to see more of musings about life in community, connection, attunement, attachment, loneliness, friendship and other assorted topics around living a life full of the most nourishing connections, check out [writing, videos and life updates](https://www.simmosimpson.com/Links) on other platforms
 
-- *Substack — [https://substack.com/@mrsimmosimpson](https://substack.com/@mrsimmosimpson)* 
-    
-- *Twitter/X — [https://x.com/MrSimmoSimpson](https://x.com/MrSimmoSimpson)* 
 
-	  
 
 ### Content
 
-Content of this Doc
-
-Other Lists of Communities
-
-BY CATEGORY
-
-Spirituality & Healing Communities
-
-Meditation Communities
-
-Plant Medicine Communities
-
-Ecological Communities
-
-CoLiving Communities
-
-Communities In-Development
-
-Retreat Centers
-
-Workshops & Trainings (In-Person)
-
-Festivals & Gatherings
-
-Communication / Relationships
-
-Thinking
-
-BY LOCATION
-
-USA
-
-UK
-
-Europe
-
-Africa
-
-Asia
-
-Latin America
-
-Global
-
-Online / Global Networks
-
-HOUSING MATERIALS, RESOURCES ETCv36)
-
-RESOURCES
-
-Lists
-
-Resources & Inspiration
-
-Video
-
-Posts
-
-Movies etc
+* Other Lists of Communities
+* BY CATEGORY
+* Spirituality & Healing Communities
+* Meditation Communities
+* Plant Medicine Communities
+* Ecological Communities
+* CoLiving Communities
+* Communities In-Development
+* Retreat Centers
+* Workshops & Trainings (In-Person)
+* Festivals & Gatherings
+* Communication / Relationships
+* Thinking
+* BY LOCATION
+* USA
+* UK
+* Europe
+* Africa
+* Asia
+* Latin America
+* Global
+* Online / Global Networks
+* HOUSING MATERIALS, RESOURCES ETCv36)
+* RESOURCES
+* Lists
+* Resources & Inspiration
+* Video
+* Posts
+* Movies etc
 # Other Lists of Communities
 
 A list of lists, yo!
@@ -987,6 +953,9 @@ Impact
 [Arram on the Today show](https://www.today.com/video/meet-the-tech-ceo-who-chooses-to-live-with-15-roommates-1342712387551) — EA Tech CEO lives with 15 roommates
 
 [Twitter interview](https://twitter.com/nat_sharpe_/status/1506075986475077639?fbclid=IwAR2kdMj9ZaqReW6LVf6Vw86K2E7Q3AoV1hsjd9qBAXVJ8D4ACF6jD9yHnQ0) with guy who lived in long-term successful intentional community
+
+[My interviews about communities, loneliness and connection](https://www.youtube.com/@roadtoconnection)
+
 
 ## Posts
 
