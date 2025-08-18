@@ -35,8 +35,7 @@
               "title": "Links"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,13 +183,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09c93677219fe054",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Links.md",
     "Communities List.md",
     "index.md",
     "Fallen Lemons.md",
     "Resources.md",
-    "Links.md",
     "Pasted image 20250818223830.png",
     "www.thegarden.pt.md",
     "Pasted image 20250818172829.png",
