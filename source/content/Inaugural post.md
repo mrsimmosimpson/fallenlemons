@@ -35,4 +35,4 @@ And I want to work out how to use this digital scrapbook. This is my first attem
 
 
 ![[Pasted image 20250818232738.png]]
-Arrivi
+*Arriving for the opening circle in the Zen Room*
