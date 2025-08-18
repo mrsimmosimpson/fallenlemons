@@ -8,6 +8,6 @@ Speckled, near-shimmering, juicy, yellow orbs of flavor and nourishment. A littl
 
 **Fallen Lemons** -- Contents
 
-* [[Communities List]]
+* [[Inaugural post]]
 
-
+.
