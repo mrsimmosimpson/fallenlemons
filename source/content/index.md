@@ -8,7 +8,7 @@ aliases:
 
 ---
 
-**Hi, I’m Simmo**
+**Hi, I’m Simmo**!
 
 ![[Pasted image 20250818223830.png]]
 *Still figuring out how to build this site... photo to be resized!*
