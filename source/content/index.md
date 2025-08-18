@@ -3,7 +3,7 @@ title: Welcome to my personal website
 aliases:
   - Home
 ---
-**Menu** >>> [[Fallen Lemons]] (digital scrapbook) || [[Links]]
+**Menu** >>> [[Fallen Lemons]] (digital scrapbook) || [[Links]] || 
 
 **Hi, I’m Simmo**
 
