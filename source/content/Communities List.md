@@ -1,6 +1,5 @@
 I’ve compiled this list of communities. Many of them were taken from lists compiled by others: full credit goes to them!
 
-  
 
 *If you want to see more of musings about life in community, connection, attunement, attachment, loneliness, friendship and other assorted topics around living a life full of the most nourishing connections, check out [writing, videos and life updates](https://www.simmosimpson.com/Links) on other platforms
 
