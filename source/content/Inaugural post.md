@@ -9,4 +9,20 @@ I'm now at the [Fool's Valley community](https://foolsvalley.com/) near Lisbon f
 My main intention this week was to get this site up and running. ✅Done!
 
 
-Now I want to write. Writing has become one of my primary methods for clarifying my thinking and consolidating my growth.  It might be the case that more powerful shifts have happened for me these last few months than 
+Now I want to write. It's become one of my primary methods for clarifying my thinking and consolidating my growth.  It might be the case that more powerful shifts have happened for me these last few months than any equivalent period in the last decade. 
+
+
+And I want to work out how to use this digital scrapbook. This is my first attempt.
+
+
+In that vein, here are some photos from Fool's Valley
+![[Pasted image 20250818232530.png]]
+
+![[Pasted image 20250818232600.png]]
+
+![[Pasted image 20250818232645.png]]
+
+![[Pasted image 20250818232716.png]]
+
+![[Pasted image 20250818232738.png]]
+
