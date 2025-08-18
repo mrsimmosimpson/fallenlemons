@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Communities List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Communities List"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Communities List"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,11 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bc9f7a7248a64f1",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Communities List.md",
     "index.md",
+    "Communities List.md",
+    "All Posts.md",
+    "Pasted image 20250818142750.png",
     "category-folder/Testing CTRL + P.md",
     "category-folder/index.md",
     "category-folder"
