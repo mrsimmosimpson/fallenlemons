@@ -1,5 +1,5 @@
 ---
-title: Welcome to my personal website
+title: 
 aliases:
   - Home
 ---
@@ -15,7 +15,7 @@ aliases:
 *Still figuring out how to build this site... photo to be resized!*
 
 
-Sometimes life coach, relational facilitator and musician, I am an obsessive in the arts of relational attunement, community and other such things in the pantry of nourishing human connection. 
+I'm some mix of life coach, relational facilitator and musician, and an obsessive in the arts of relational attunement, community and other such things in the pantry of nourishing human connection. 
 
 
 This site is brand new (as of August 2025). The main intention is for it to host [[Fallen Lemons]], my digital scrapbook; a place to post *things in progress*. The fruit, still sour and under-processed, yet to make it from the ground and into the lemon pie. 
