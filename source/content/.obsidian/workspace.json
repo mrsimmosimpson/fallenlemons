@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fallen Lemons.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fallen Lemons"
+              "title": "index"
             }
           },
           {
@@ -185,8 +185,8 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Inaugural post.md",
     "Fallen Lemons.md",
+    "Inaugural post.md",
     "Pasted image 20250818232738.png",
     "Pasted image 20250818232716.png",
     "Pasted image 20250818232645.png",
