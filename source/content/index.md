@@ -10,8 +10,7 @@ aliases:
 
 **Hi, I’m Simmo**!
 
-<p align="center"> ![[Pasted image 20250818223830.png|400]] </p>
-
+![[Pasted image 20250818223830.png|400]]
 *Still figuring out how to build this site... photo to be resized!*
 
 
