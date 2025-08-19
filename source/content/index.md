@@ -11,7 +11,7 @@ aliases:
 **Hi, I’m Simmo**!
 
 ![[Pasted image 20250818223830.png|400]]
-*Still figuring out how to build this site... photo to be resized!*
+*Me*
 
 
 I'm some mix of life coach, relational facilitator and musician, and an obsessive in the arts of relational attunement, community and other such things in the pantry of nourishing human connection. 
