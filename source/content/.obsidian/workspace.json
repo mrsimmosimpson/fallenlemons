@@ -35,7 +35,8 @@
               "title": "Inaugural post"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "5199a62d17cb96ee",
   "lastOpenFiles": [
+    "index.md",
     "Fallen Lemons.md",
     "Inaugural post.md",
     "Pasted image 20250818232738.png",
@@ -193,7 +195,6 @@
     "Pasted image 20250818232600.png",
     "Pasted image 20250818232530.png",
     "Resources.md",
-    "index.md",
     "Links.md",
     "Communities List.md",
     "Pasted image 20250818223830.png",
